@@ -1,0 +1,276 @@
+2024-11-20 19:17:02 - EVENT: Solar Panel 1: 5.00/100.00 kWh generated energy for 5.0 hours.
+2024-11-20 19:17:02 - EVENT: Battery 1: 0.00/50.00 kWh generated energy for 5.0 hours.
+2024-11-20 19:17:02 - EVENT: Grid Connection: 200.00/200.00 kWh generated energy for 5.0 hours.
+2024-11-20 19:21:57 - EVENT: Solar Panel 1: 5.00/100.00 kWh generated energy for 5.0 hours.
+2024-11-20 19:21:57 - EVENT: Battery 1: 0.00/50.00 kWh generated energy for 5.0 hours.
+2024-11-20 19:21:57 - EVENT: Grid Connection: 200.00/200.00 kWh generated energy for 5.0 hours.
+2024-11-21 19:11:42 - EVENT: System started.
+2024-11-21 19:12:04 - ERROR: An unexpected error occurred: null
+2024-11-21 19:12:29 - EVENT: System started.
+2024-11-21 19:12:31 - EVENT: System started.
+2024-11-21 21:36:26 - EVENT: System started.
+2024-11-21 21:37:24 - EVENT: User selected: Manage Smart Objects
+2024-11-21 21:37:29 - EVENT: Added Smart Object: Thermo1 (Smart Thermostat)
+2024-11-21 21:37:58 - EVENT: Exiting SmartObjectUI.
+2024-11-21 21:37:58 - ERROR: An unexpected error occurred: null
+2024-11-21 21:39:42 - EVENT: System started.
+2024-11-21 21:39:47 - ERROR: Invalid menu selection: 6
+2024-11-21 21:40:11 - EVENT: User selected: Manage Smart Objects
+2024-11-21 21:40:18 - EVENT: Added Smart Object: Thermo1 (Smart Thermostat)
+2024-11-21 21:40:33 - EVENT: Exiting SmartObjectUI.
+2024-11-21 21:40:33 - ERROR: An unexpected error occurred: No line found
+2024-11-21 21:42:04 - EVENT: System started.
+2024-11-21 21:42:07 - EVENT: User selected: Manage Smart Objects
+2024-11-21 21:42:10 - EVENT: Added Smart Object: Thermo1 (Smart Thermostat)
+2024-11-21 21:42:16 - EVENT: Exiting SmartObjectUI.
+2024-11-21 21:42:16 - ERROR: Error: No line found
+2024-11-21 21:42:16 - ERROR: An unexpected error occurred: No line found
+2024-11-22 11:15:14 - EVENT: System started.
+2024-11-22 11:15:22 - EVENT: User selected: Manage Smart Objects
+2024-11-22 11:15:27 - EVENT: Added Smart Object: Thermo1 (Smart Thermostat)
+2024-11-22 11:15:43 - STATUS: Device ID: Thermo1, Type: Smart Thermostat, Active: false, Consumption Rate: 20.00 W
+2024-11-22 11:15:55 - EVENT: System started.
+2024-11-22 11:16:09 - EVENT: User selected: Manage Smart Objects
+2024-11-22 11:16:10 - EVENT: Added Smart Object: Thermo1 (Smart Thermostat)
+2024-11-22 11:16:11 - STATUS: Device ID: Thermo1, Type: Smart Thermostat, Active: false, Consumption Rate: 20.00 W
+2024-11-22 11:16:12 - STATUS: Device ID: Thermo1, Type: Smart Thermostat, Active: true, Consumption Rate: 20.00 W
+2024-11-22 11:16:13 - STATUS: Device ID: Thermo1, Type: Smart Thermostat, Active: false, Consumption Rate: 20.00 W
+2024-11-22 11:16:21 - DETAIL: Energy Consumption - Device ID: Thermo1, Type: Smart Thermostat, Active: false, Consumption: 0.00 Wh over 5.00 hours
+2024-11-22 11:16:27 - EVENT: Exiting SmartObjectUI.
+2024-11-22 11:16:27 - ERROR: Error: No line found
+2024-11-22 11:16:27 - ERROR: An unexpected error occurred: No line found
+2024-11-25 00:45:45 - EVENT: System started.
+2024-11-25 00:46:59 - EVENT: System started.
+2024-11-25 01:14:31 - EVENT: No existing SmartObjects file found. Starting with an empty list.
+2024-11-25 01:14:31 - EVENT: System started.
+2024-11-25 01:23:07 - EVENT: No existing SmartObjects file found. Starting with an empty list.
+2024-11-25 01:23:07 - EVENT: System started.
+2024-11-25 01:23:09 - EVENT: No existing SmartObjects file found. Starting with an empty list.
+2024-11-25 01:23:59 - EVENT: No existing energy sources file found. Starting with an empty list.
+2024-11-25 01:23:59 - EVENT: No existing SmartObjects file found. Starting with an empty list.
+2024-11-25 01:23:59 - EVENT: System started.
+2024-11-25 01:24:37 - EVENT: No existing SmartObjects file found. Starting with an empty list.
+2024-11-25 01:24:37 - EVENT: System started.
+2024-11-25 01:25:22 - EVENT: No existing SmartObjects file found. Starting with an empty list.
+2024-11-25 01:36:28 - EVENT: No existing SmartObjects file found. Starting with an empty list.
+2024-11-25 01:36:29 - EVENT: System started.
+2024-11-25 01:36:45 - EVENT: No existing SmartObjects file found. Starting with an empty list.
+2024-11-25 01:46:10 - EVENT: No existing SmartObjects file found. Starting with an empty list.
+2024-11-25 01:46:11 - EVENT: System started.
+2024-11-25 01:47:47 - EVENT: No existing energy sources file found. Starting with an empty list.
+2024-11-25 01:47:47 - EVENT: No existing SmartObjects file found. Starting with an empty list.
+2024-11-25 01:47:47 - EVENT: System started.
+2024-11-25 01:49:02 - EVENT: No existing SmartObjects file found. Starting with an empty list.
+2024-11-25 01:49:03 - EVENT: System started.
+2024-11-25 01:49:22 - EVENT: No existing SmartObjects file found. Starting with an empty list.
+2024-11-25 01:49:35 - EVENT: Added Smart Object: Light
+2024-11-25 01:49:46 - EVENT: Added Smart Object: Thermo
+2024-11-25 02:03:46 - EVENT: System started.
+2024-11-25 02:04:41 - EVENT: System started.
+2024-11-25 02:06:27 - EVENT: System started.
+2024-11-25 02:08:38 - EVENT: System started.
+2024-11-25 02:16:33 - EVENT: System started.
+2024-11-25 02:16:57 - EVENT: No existing energy sources file found. Starting with an empty list.
+2024-11-25 02:16:58 - EVENT: Default Grid added automatically.
+2024-11-25 02:16:58 - EVENT: No existing SmartObjects file found. Starting with an empty list.
+2024-11-25 02:16:58 - EVENT: System started.
+2024-11-25 02:24:09 - ERROR: Error loading energy sources: null
+2024-11-25 02:24:09 - ERROR: An unexpected error occurred during startup: Cannot invoke "java.util.List.add(Object)" because "this.gridConnections" is null
+2024-11-25 02:26:07 - ERROR: Error loading energy sources: null
+2024-11-25 02:26:07 - EVENT: Default Grid added automatically.
+2024-11-25 02:26:07 - EVENT: No existing SmartObjects file found. Starting with an empty list.
+2024-11-25 02:26:08 - EVENT: System started.
+2024-11-25 02:27:30 - ERROR: Error loading energy sources: null
+2024-11-25 02:27:30 - EVENT: Default Grid added automatically.
+2024-11-25 02:27:30 - EVENT: No existing SmartObjects file found. Starting with an empty list.
+2024-11-25 02:27:30 - EVENT: System started.
+2024-11-25 02:29:51 - EVENT: No existing SmartObjects file found. Starting with an empty list.
+2024-11-25 02:30:02 - EVENT: Added Smart Object: Light
+2024-11-25 02:30:08 - EVENT: Added Smart Object: Thermo
+2024-11-25 02:45:09 - EVENT: System started.
+2024-11-25 03:03:35 - EVENT: System started.
+2024-11-25 03:08:57 - EVENT: No existing energy sources file found. Starting with an empty list.
+2024-11-25 03:08:57 - EVENT: Default Grid added automatically.
+2024-11-25 03:08:57 - EVENT: No existing SmartObjects file found. Starting with an empty list.
+2024-11-25 03:08:57 - EVENT: System started.
+2024-11-25 03:09:02 - EVENT: No existing SmartObjects file found. Starting with an empty list.
+2024-11-25 09:17:33 - EVENT: No existing energy sources file found. Starting with an empty list.
+2024-11-25 09:17:33 - EVENT: Default Grid added automatically.
+2024-11-25 09:17:33 - EVENT: No existing SmartObjects file found. Starting with an empty list.
+2024-11-25 09:17:33 - EVENT: System started.
+2024-11-25 09:29:17 - EVENT: No existing energy sources file found. Starting with an empty list.
+2024-11-25 09:29:17 - EVENT: Default Grid added automatically.
+2024-11-25 09:29:17 - EVENT: No existing SmartObjects file found. Starting with an empty list.
+2024-11-25 09:29:17 - EVENT: System started.
+2024-11-25 10:06:08 - EVENT: No existing energy sources file found. Starting with an empty list.
+2024-11-25 10:06:08 - EVENT: Default Grid added automatically.
+2024-11-25 10:06:08 - EVENT: No existing SmartObjects file found. Starting with an empty list.
+2024-11-25 10:06:08 - EVENT: System started.
+2024-11-25 10:36:45 - EVENT: No existing energy sources file found. Starting with an empty list.
+2024-11-25 10:36:45 - EVENT: Default Grid added automatically.
+2024-11-25 10:36:45 - EVENT: No existing SmartObjects file found. Starting with an empty list.
+2024-11-25 10:36:45 - EVENT: System started.
+2024-11-25 10:37:38 - EVENT: No existing energy sources file found. Starting with an empty list.
+2024-11-25 10:37:38 - EVENT: Default Grid added automatically.
+2024-11-25 10:37:38 - EVENT: No existing SmartObjects file found. Starting with an empty list.
+2024-11-25 10:37:38 - EVENT: System started.
+2024-11-25 10:38:11 - EVENT: No existing SmartObjects file found. Starting with an empty list.
+2024-11-25 10:38:12 - EVENT: System started.
+2024-11-25 10:42:05 - EVENT: No existing SmartObjects file found. Starting with an empty list.
+2024-11-25 10:42:05 - EVENT: System started.
+2024-11-25 10:42:53 - EVENT: No existing energy sources file found. Starting with an empty list.
+2024-11-25 10:42:54 - EVENT: Default Grid added automatically.
+2024-11-25 10:42:54 - EVENT: No existing SmartObjects file found. Starting with an empty list.
+2024-11-25 10:42:54 - EVENT: System started.
+2024-11-25 11:29:16 - EVENT: No existing SmartObjects file found. Starting with an empty list.
+2024-11-25 11:29:16 - EVENT: System started.
+2024-11-25 11:29:49 - EVENT: No existing energy sources file found. Starting with an empty list.
+2024-11-25 11:29:49 - EVENT: Default Grid added automatically.
+2024-11-25 11:29:49 - EVENT: No existing SmartObjects file found. Starting with an empty list.
+2024-11-25 11:29:49 - EVENT: System started.
+2024-11-25 11:33:36 - EVENT: No existing energy sources file found. Starting with an empty list.
+2024-11-25 11:33:36 - EVENT: Default Grid added automatically.
+2024-11-25 11:33:36 - EVENT: No existing SmartObjects file found. Starting with an empty list.
+2024-11-25 11:33:36 - EVENT: System started.
+2024-11-25 11:35:22 - EVENT: No existing energy sources file found. Starting with an empty list.
+2024-11-25 11:35:22 - EVENT: Default Grid added automatically.
+2024-11-25 11:35:22 - EVENT: No existing SmartObjects file found. Starting with an empty list.
+2024-11-25 11:35:22 - EVENT: System started.
+2024-11-25 11:37:23 - EVENT: No existing SmartObjects file found. Starting with an empty list.
+2024-11-25 11:39:16 - EVENT: No existing energy sources file found. Starting with an empty list.
+2024-11-25 11:39:16 - EVENT: Default Grid added automatically.
+2024-11-25 11:39:16 - EVENT: No existing SmartObjects file found. Starting with an empty list.
+2024-11-25 11:39:17 - EVENT: System started.
+2024-11-25 11:41:33 - EVENT: No existing energy sources file found. Starting with an empty list.
+2024-11-25 11:41:33 - EVENT: Default Grid added automatically.
+2024-11-25 11:41:33 - EVENT: No existing SmartObjects file found. Starting with an empty list.
+2024-11-25 11:41:33 - EVENT: System started.
+2024-11-25 14:04:06 - EVENT: No existing SmartObjects file found. Starting with an empty list.
+2024-11-25 14:04:06 - EVENT: System started.
+2024-11-25 14:04:35 - EVENT: No existing energy sources file found. Starting with an empty list.
+2024-11-25 14:04:35 - EVENT: Default Grid added automatically.
+2024-11-25 14:04:35 - EVENT: No existing SmartObjects file found. Starting with an empty list.
+2024-11-25 14:04:35 - EVENT: System started.
+2024-11-25 14:05:29 - EVENT: No existing SmartObjects file found. Starting with an empty list.
+2024-11-25 14:05:40 - EVENT: Added Smart Object: Light1
+2024-11-25 14:08:23 - EVENT: System started.
+2024-11-25 14:08:31 - EVENT: Added Smart Object: Thermo1
+2024-11-25 14:10:32 - EVENT: System started.
+2024-11-25 14:10:58 - EVENT: No existing energy sources file found. Starting with an empty list.
+2024-11-25 14:10:58 - EVENT: Default Grid added automatically.
+2024-11-25 14:10:58 - EVENT: No existing SmartObjects file found. Starting with an empty list.
+2024-11-25 14:10:58 - EVENT: System started.
+2024-11-25 14:13:20 - EVENT: No existing SmartObjects file found. Starting with an empty list.
+2024-11-25 14:13:26 - EVENT: Added Smart Object: Light1
+2024-11-25 14:13:35 - EVENT: Added Smart Object: Thermo1
+2024-11-25 14:13:42 - EVENT: Added Smart Object: Light2
+2024-11-25 14:13:48 - EVENT: Added Smart Object: Thermo2
+2024-11-25 14:47:33 - EVENT: No existing energy sources file found. Starting with an empty list.
+2024-11-25 14:47:33 - EVENT: Default Grid added automatically.
+2024-11-25 14:47:33 - EVENT: No existing SmartObjects file found. Starting with an empty list.
+2024-11-25 14:47:34 - EVENT: System started.
+2024-11-25 14:49:38 - EVENT: No existing SmartObjects file found. Starting with an empty list.
+2024-11-25 14:49:42 - EVENT: Added Smart Object: Light1
+2024-11-25 14:49:48 - EVENT: Added Smart Object: Light2
+2024-11-25 14:49:55 - EVENT: Added Smart Object: Thermo1
+2024-11-25 14:50:04 - EVENT: Added Smart Object: Thermo2
+2024-11-25 14:55:12 - EVENT: System started.
+2024-11-25 14:58:16 - EVENT: System started.
+2024-11-25 15:03:23 - EVENT: System started.
+2024-11-25 15:41:24 - EVENT: System started.
+2024-11-25 15:48:29 - EVENT: System started.
+2024-11-25 16:07:12 - EVENT: System started.
+2024-11-25 16:22:17 - EVENT: System started.
+2024-11-25 16:23:19 - EVENT: System started.
+2024-11-25 18:21:05 - EVENT: System started.
+2024-11-25 18:22:22 - EVENT: System started.
+2024-11-25 18:42:37 - EVENT: System started.
+2024-11-25 18:45:41 - EVENT: System started.
+2024-11-25 19:07:45 - EVENT: System started.
+2024-11-25 19:12:16 - EVENT: System started.
+2024-11-25 19:12:48 - EVENT: System started.
+2024-11-25 19:14:13 - EVENT: No existing SmartObjects file found. Starting with an empty list.
+2024-11-25 20:15:07 - EVENT: No existing energy sources file found. Starting with an empty list.
+2024-11-25 20:15:07 - EVENT: Default Grid added automatically.
+2024-11-25 20:15:07 - EVENT: No existing SmartObjects file found. Starting with an empty list.
+2024-11-25 20:15:07 - EVENT: System started.
+2024-11-25 20:16:31 - EVENT: No existing energy sources file found. Starting with an empty list.
+2024-11-25 20:16:31 - EVENT: Default Grid added automatically.
+2024-11-25 20:16:31 - EVENT: No existing SmartObjects file found. Starting with an empty list.
+2024-11-25 20:16:31 - EVENT: System started.
+2024-11-25 20:20:32 - EVENT: No existing energy sources file found. Starting with an empty list.
+2024-11-25 20:20:32 - EVENT: Default Grid added automatically.
+2024-11-25 20:20:32 - EVENT: No existing SmartObjects file found. Starting with an empty list.
+2024-11-25 20:20:32 - EVENT: System started.
+2024-11-25 20:22:17 - EVENT: No existing SmartObjects file found. Starting with an empty list.
+2024-11-25 20:22:28 - EVENT: SmartObject added: Light1
+2024-11-25 20:22:34 - EVENT: SmartObject added: Light2
+2024-11-25 20:22:41 - EVENT: SmartObject added: Thermo1
+2024-11-25 20:22:46 - EVENT: SmartObject added: Thermo2
+2024-11-25 21:46:37 - EVENT: System started.
+2024-11-25 21:48:42 - EVENT: System started.
+2024-11-25 21:54:48 - EVENT: System started.
+2024-11-25 21:56:39 - EVENT: System started.
+2024-11-25 21:58:11 - EVENT: System started.
+2024-11-25 21:58:31 - EVENT: System started.
+2024-11-25 22:04:16 - EVENT: System started.
+2024-11-25 22:08:37 - EVENT: System started.
+2024-11-25 22:21:05 - EVENT: System started.
+2024-11-25 22:25:01 - EVENT: System started.
+2024-11-25 22:36:43 - EVENT: System started.
+2024-11-26 06:58:09 - EVENT: System started.
+2024-11-26 07:14:00 - EVENT: System started.
+2024-11-26 07:25:01 - EVENT: System started.
+2024-11-26 07:27:52 - EVENT: No existing energy sources file found. Starting with an empty list.
+2024-11-26 07:27:52 - EVENT: Default Grid added automatically.
+2024-11-26 07:27:52 - EVENT: No existing SmartObjects file found. Starting with an empty list.
+2024-11-26 07:27:53 - EVENT: System started.
+2024-11-26 07:29:00 - EVENT: No existing SmartObjects file found. Starting with an empty list.
+2024-11-26 07:31:23 - EVENT: No existing energy sources file found. Starting with an empty list.
+2024-11-26 07:31:23 - EVENT: Default Grid added automatically.
+2024-11-26 07:31:23 - EVENT: No existing SmartObjects file found. Starting with an empty list.
+2024-11-26 07:31:23 - EVENT: System started.
+2024-11-26 07:32:21 - EVENT: No existing SmartObjects file found. Starting with an empty list.
+2024-11-26 07:32:27 - EVENT: SmartObject added: Thermo1
+2024-11-26 07:32:33 - EVENT: SmartObject added: Thermo2
+2024-11-26 07:32:39 - EVENT: SmartObject added: Light1
+2024-11-26 07:32:45 - EVENT: SmartObject added: Light2
+2024-11-26 07:37:05 - EVENT: System started.
+2024-11-26 07:40:11 - EVENT: System started.
+2024-11-26 07:42:07 - EVENT: System started.
+2024-11-26 07:47:22 - EVENT: System started.
+2024-11-26 08:08:26 - EVENT: System started.
+2024-11-26 08:18:04 - EVENT: System started.
+2024-11-26 08:29:58 - EVENT: System started.
+2024-11-26 08:31:35 - EVENT: SmartObject added: ThermoBig1
+2024-11-26 08:58:09 - EVENT: System started.
+2024-11-26 08:58:58 - EVENT: System started.
+2024-11-26 09:02:56 - EVENT: System started.
+2024-11-26 09:03:46 - EVENT: System started.
+2024-11-26 09:20:19 - EVENT: System started.
+2024-11-26 09:20:46 - EVENT: System started.
+2024-11-26 09:23:28 - EVENT: System started.
+2024-11-26 09:24:05 - EVENT: System started.
+2024-11-26 09:27:20 - EVENT: System started.
+2024-11-26 09:27:49 - EVENT: System started.
+2024-11-26 09:35:31 - EVENT: System started.
+2024-11-26 09:35:39 - EVENT: SmartObject added: Light1
+2024-11-26 09:35:50 - EVENT: SmartObject added: Thermo1
+2024-11-26 09:35:55 - EVENT: SmartObject added: Thermo2
+2024-11-26 09:36:12 - EVENT: SmartObject added: Light2
+2024-11-26 09:37:03 - EVENT: System started.
+2024-11-26 09:39:25 - EVENT: System started.
+2024-11-26 09:42:09 - EVENT: System started.
+2024-11-26 09:49:58 - EVENT: System started.
+2024-11-26 09:51:10 - EVENT: System started.
+2024-11-26 09:54:42 - EVENT: System started.
+2024-11-26 12:04:26 - EVENT: System started.
+2024-11-26 12:34:05 - EVENT: System started.
+2024-11-26 12:35:16 - EVENT: System started.
+2024-11-26 12:37:41 - EVENT: System started.
+2024-11-26 12:45:34 - EVENT: System started.
+2024-11-26 16:55:47 - EVENT: System started.
+2024-11-26 16:56:38 - EVENT: System started.
+2024-11-26 17:06:47 - EVENT: System started.
+2024-11-26 17:07:12 - EVENT: System started.
+2024-11-26 17:14:13 - EVENT: System started.
